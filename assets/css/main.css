@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,800");
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
 
 /*
 	Highlights by HTML5 UP
@@ -85,7 +86,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/placeholder01.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -154,11 +155,11 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #61686b;
-		font-weight: 800;
+		font-weight: 400;
 		letter-spacing: 0.075em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		font-family: 'Oooh Baby', cursive;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2821,7 +2822,7 @@ input, select, textarea {
 				}
 
 			#header header h1 {
-				font-size: 3em;
+				font-size: 5em;
 				line-height: 1.25em;
 				margin: 0;
 			}
