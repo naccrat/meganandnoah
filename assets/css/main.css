@@ -2860,7 +2860,6 @@ input, select, textarea {
 		min-height: 100vh;
 		padding: 0 0 12em 0;
 		position: relative;
-		text-align: center;
 	}
 
 		#footer .container {
@@ -2871,7 +2870,7 @@ input, select, textarea {
 
 		#footer footer {
 			bottom: 2em;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.85);
 			left: 0;
 			position: absolute;
 			text-align: center;
